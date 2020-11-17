@@ -19,4 +19,6 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <hr>
 <h3>Cloning GitHub</h3>
-<textarea cols="10" rows="3" readonly>https://github.com</textarea>
+{: .box-note}
+**Cloning:** https://github.com/SbgSchool/SMCV.git
+
